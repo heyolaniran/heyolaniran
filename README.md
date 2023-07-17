@@ -15,7 +15,7 @@
 
 - 📫 How to reach me on twitter asap : **@heyolaniran**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFcoT77zYI/piWNUHpCP2s4UgHChqNq_A/view?utm_content=DAFcoT77zYI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFcoT77zYI/piWNUHpCP2s4UgHChqNq_A/view?utm_content=DAFcoT77zYI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my latest experiences [here](https://www.canva.com/design/DAFcoT77zYI/piWNUHpCP2s4UgHChqNq_A/edit?utm_content=DAFcoT77zYI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

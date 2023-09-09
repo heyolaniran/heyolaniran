@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/heyolaniran" target="blank"><img src="https://img.shields.io/twitter/follow/heyolaniran?logo=twitter&style=for-the-badge" alt="heyolaniran" /></a> </p>
 
-- 🔭 I’m currently working on **NextJS and Bitcoin mechanics**
+- 🔭 I’m currently working on **NextJS ,Bitcoin mechanics, Python and ERP customization**
 
 - 🌱 I’m currently mastering **NextJS + TypeScript backed by Prisma ORM**
 

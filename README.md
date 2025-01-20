@@ -3,19 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/heyolaniran" target="blank"><img src="https://img.shields.io/twitter/follow/heyolaniran?logo=twitter&style=for-the-badge" alt="heyolaniran" /></a> </p>
 
-- 🔭 I’m currently working on **NextJS ,Bitcoin mechanics, Python and ERP customization**
+- 🔭 I’m interested by **Back-end Architectures ,Bitcoin mechanics (With Chaincode Labs) , Python and ERP customization**
 
-- 🌱 I’m currently mastering **NextJS + TypeScript backed by Prisma ORM**
+- 🌱 I’m currently working with  **NestJS, FastAPI & Rust**
 
 - 👯 I’m looking to collaborate on **fullstack project (Back-end & front-end) passionnate projects**
 
-- 📝 I regularly write articles on [https://medium.com/@olaniranabd](https://medium.com/@olaniranabd)
+- 📝 I write articles on [Medium](https://medium.com/@olaniranabd) to share how i understand concepts about Software Eng. & Bitcoin underhood mechanics
 
-- 💬 Ask me about **Bitcoin mechanics, Devs, Neurology, philosophy**
-
-- 📫 How to reach me on twitter asap : **@heyolaniran**
-
-- 📄 Know about my latest experiences [here](https://www.canva.com/design/DAFcoT77zYI/piWNUHpCP2s4UgHChqNq_A/edit?utm_content=DAFcoT77zYI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 💬 Ask me about **Bitcoin mechanics, DSA , Products Bulding**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,7 +21,6 @@
 <p align="left">
 <a href="https://twitter.com/heyolaniran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heyolaniran" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdias-afouda-06461022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdias-afouda" height="30" width="40" /></a>
-<a href="https://instagram.com/heyolaniran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyolaniran" height="30" width="40" /></a>
 <a href="https://medium.com/@olaniranabd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@olaniranabd" height="30" width="40" /></a>
 </p>
 

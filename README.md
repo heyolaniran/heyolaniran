@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olaniran Laurent</h1>
-<h3 align="center">Resilient and passionate, I have an analytical mind that allows me to remain objective most of the time. I have a mediator's personality. My hobbies include playing video games, spending time with friends, and debating.</h3>
+<h3 align="center">Back-end  Developer , Bitcoin Mechanics Enthusiast & Curious. </h3>
 
 <p align="left"> <a href="https://twitter.com/heyolaniran" target="blank"><img src="https://img.shields.io/twitter/follow/heyolaniran?logo=twitter&style=for-the-badge" alt="heyolaniran" /></a> </p>
 
